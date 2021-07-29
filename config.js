@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'Vào Sổ Hộ Khẩu Của ta Nhóaaa  <33',
     btnNo: 'Không, Bị Điên àa :3',
     question:'Ta biết ngươi sẽ chọn ta mừ hihi Loveee youuuu FV <3',
-    btnReply: 'Gửi cho Ny tương Laiiiii <3',
+    btnReply: 'Gửi cho ... tương Laiiiii <3',
     reply: 'Thế nên không đồng ý vẫn phải đồng ý hihi',
     mess: 'ta biết mà . Yêu ngươi nhiều nhiều 😘😘',
     messDesc: ' Nào Game nhóaaa <3 Yêu ngươiiiiii  :3.',
